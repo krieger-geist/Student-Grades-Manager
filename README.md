@@ -1,4 +1,4 @@
-Add files via upload
+
 Student Grades Manager is a simple console-based Java application that helps users manage a list of students and their grades. The program allows the user to:
 
 How it works .
